@@ -21,3 +21,5 @@ The focus was on functional testing, UI/UX validation, and basic performance che
 
 **Notes**
 Testing was performed on an emulator, and results may differ slightly on physical devices.
+
+**All test cases passed during manual testing. No critical defects were found.**
